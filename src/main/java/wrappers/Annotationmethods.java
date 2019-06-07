@@ -16,7 +16,7 @@ import org.testng.annotations.BeforeTest;
 
 import com.sun.javafx.PlatformUtil;
 
-public class Annotationmethods {
+public class Annotationmethods extends Genericmethods {
 	protected static WebDriver driver;
 	public String sUrl;
 	public Annotationmethods(){
